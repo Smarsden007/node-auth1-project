@@ -20,7 +20,7 @@ Write the following user access functions inside `api/users/users-model.js`:
 - [ ] `findBy`
 - [ ] `findById`
 - [ ] `add`
-
+cd test
 #### 2B - Middleware Functions
 
 Write the following auth middlewares inside `api/auth/auth-middleware.js`:
